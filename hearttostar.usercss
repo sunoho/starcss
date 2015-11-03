@@ -1,6 +1,6 @@
 .HeartAnimation {
     position: absolute;
-    background: url(/star.png);
+    background: url(https://raw.githubusercontent.com/sunoho/starcss/master/star.png);
     background-position: left;
     background-repeat: no-repeat;
     background-size: 2900%;
