@@ -1,0 +1,11 @@
+.HeartAnimation {
+    position: absolute;
+    background: url(/star.png);
+    background-position: left;
+    background-repeat: no-repeat;
+    background-size: 2900%;
+    height: 50px;
+    width: 50px;
+    left: -100%;
+    top: -100%;
+}
